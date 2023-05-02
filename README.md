@@ -1,1 +1,2 @@
-React Tic Tac Toe tutorial from the official documentation. Been learning react through Codecademy and the Odin Project for a few weeks, now just going through the documentation and starting some personal projects. 
+React Tic Tac Toe tutorial from the official documentation. Been learning react through Codecademy and the Odin Project for a few weeks, now just going through the documentation and starting some personal projects.
+To view live please visit: https://jimmybcoding.github.io/React-Tic-Tac-Toe/ 
